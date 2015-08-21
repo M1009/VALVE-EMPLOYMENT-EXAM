@@ -21,11 +21,11 @@ int main(){ // main function for program.
 		string line;
 		ifstream GABE;
 		GABE.open("Gaben.txt");
-    if (GABE.is_open()){ // This loop handles the prize for victory condition.
-        while (getline (GABE,line)){
-        cout << line << '\n';
-    }     GABE.close();
-    }   else cout << "ERROR: Unable to open file\n";
+    	if (GABE.is_open()){ // This loop handles the prize for victory condition.
+        	while (getline (GABE,line)){
+		cout << line << '\n';
+    	}  	GABE.close();
+    	} else cout << "ERROR: Unable to open file\n";
 	}
     cout << "GAME OVER!" << endl;
 	return 0;
