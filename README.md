@@ -7,6 +7,6 @@ The *nix version is pretty straight forward and runs out of the box. just needs 
 it's folder
 
 However the Windows 10 version requires Visual C++ 2015 redistributable x86. It will run on other Windows OSes 7 and 8 but doesn't properly show the victory graphic since this is a console app and it requires the console to be fullscreen.
-http://www.microsoft.com/en-us/download/details.aspx?id=5555
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 As soon as I think of some more content to make the trouble worth it, I think Ill make this a openGL app.
