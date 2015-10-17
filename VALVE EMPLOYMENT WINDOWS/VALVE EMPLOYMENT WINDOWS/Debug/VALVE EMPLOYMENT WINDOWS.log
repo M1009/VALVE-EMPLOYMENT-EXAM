@@ -1,0 +1,12 @@
+﻿Build started 10/17/2015 11:34:24 AM.
+     1>Project "C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\VALVE EMPLOYMENT WINDOWS.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\VALVE EMPLOYMENT WINDOWS.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "VALVE EMPLOYMENT WINDOWS.cpp"
+         VALVE EMPLOYMENT WINDOWS.cpp
+     1>Done Building Project "C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23

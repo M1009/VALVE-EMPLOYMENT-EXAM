@@ -1,0 +1,22 @@
+﻿Build started 10/17/2015 11:39:04 AM.
+     1>Project "C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Release\VALVE EMPLOYMENT WINDOWS.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Release\VALVE EMPLOYMENT WINDOWS.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt "VALVE EMPLOYMENT WINDOWS.cpp"
+         VALVE EMPLOYMENT WINDOWS.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Release\VALVE EMPLOYMENT WINDOWS.res" "VALVE EMPLOYMENT WINDOWS.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\x64\Release\VALVE EMPLOYMENT WINDOWS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\x64\Release\VALVE EMPLOYMENT WINDOWS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\x64\Release\VALVE EMPLOYMENT WINDOWS.lib" /MACHINE:X64 "x64\Release\VALVE EMPLOYMENT WINDOWS.res"
+         x64\Release\stdafx.obj
+         "x64\Release\VALVE EMPLOYMENT WINDOWS.obj"
+         Generating code
+         All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         VALVE EMPLOYMENT WINDOWS.vcxproj -> C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\x64\Release\VALVE EMPLOYMENT WINDOWS.exe
+     1>Done Building Project "C:\Users\Eric\documents\visual studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.73

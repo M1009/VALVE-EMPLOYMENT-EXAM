@@ -1,0 +1,15 @@
+﻿Build started 10/17/2015 12:33:11 PM.
+     1>Project "C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\Release\VALVE EMPLOYMENT WINDOWS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\Release\VALVE EMPLOYMENT WINDOWS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\Release\VALVE EMPLOYMENT WINDOWS.lib" /MACHINE:X86 /SAFESEH "Release\VALVE EMPLOYMENT WINDOWS.res"
+         Release\stdafx.obj
+         "Release\VALVE EMPLOYMENT WINDOWS.obj"
+         Generating code
+         All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         VALVE EMPLOYMENT WINDOWS.vcxproj -> C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\Release\VALVE EMPLOYMENT WINDOWS.exe
+     1>Done Building Project "C:\Users\Eric\Documents\Visual Studio 2015\Projects\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS\VALVE EMPLOYMENT WINDOWS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.64
