@@ -33,8 +33,7 @@ int main() { cout << "Valve employment exam: Please enter a number in integer fo
 	cout << i << "?!?! Thats your answer?!\n\n";
 	// This IF/ELSEIF/ELSE loop handles the victory/defeat condition.
 	if (i >= 3) { wrong();
-	}
-	else { correct();
+	} else { correct();
 	}
 	cin.get();
 }
