@@ -1,4 +1,4 @@
-#################### VALVE-EMPLOYMENT-EXAM: ENHANCED EDITION! COMING SOON!!!! ##########################
+ VALVE-EMPLOYMENT-EXAM: ENHANCED EDITION! COMING SOON!!!! 
 
 
 
