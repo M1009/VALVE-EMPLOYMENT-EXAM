@@ -1,9 +1,9 @@
 // VALVE EMPLOYMENT WINDOWS.cpp : PLEASE THE GABEN SO HE MAY DISTRUBTE HIS LOVE THROUGH STEAM SALES.......
-#include "stdafx.h"
 #include <iostream>
 #include <stdio.h>
+#include <string.h>
 #include <fstream>
-#include <string>
+
 using namespace std;
 
 int i;
